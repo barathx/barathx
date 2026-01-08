@@ -10,7 +10,7 @@ Developing an intelligent communication platform that bridges the gap between th
 community and regular users. The system supports multiple sign languages, including Indian Sign Language (ISL), enabling 
 real-time translation between text, voice, and sign gestures. 
 
-##Certification
+## Certification
 - Oracle Certified Foundations Associate
 - Oracle Certified Professional
 - Fundamentals of Deep Learning
