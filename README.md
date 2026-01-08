@@ -1,8 +1,10 @@
 # Hi there 👋 Its Barath
 ## Welcome to My Github Profile!
 
-I'm a B.Tech Information Technology Student Currently Studying in Sri Ramakrishna Engineering College .I'm a
-Backend Developer Enthusiastic.
+- I'm a B.Tech Information Technology Student.
+- I'm a Backend Developer Enthusiastic.
+- I can Easily Adapt Myself in any Environment.
+- I'm a punctual with my works. 
 
 ## Projects
 ##### **Multiple Sign Language Communication System**
@@ -21,3 +23,6 @@ real-time translation between text, voice, and sign gestures.
   
 ## Language Known
 <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/java.png" alt="java"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/><img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/><img width="50" height ="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+
+## Contact me
+
