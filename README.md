@@ -18,3 +18,6 @@ real-time translation between text, voice, and sign gestures.
 - Completion of Python 3.4.3 Training
 - Java 11
 - Completion of Cpp Training
+  
+## Language Known
+<img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/java.png" alt="java"/>
