@@ -1,4 +1,4 @@
-## Hi there 👋 Its Barath
+# Hi there 👋 Its Barath
 ## Welcome to My Github Profile!
 
 - 🔭 I’m currently working on ...
