@@ -20,4 +20,4 @@ real-time translation between text, voice, and sign gestures.
 - Completion of Cpp Training
   
 ## Language Known
-<img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/java.png" alt="java"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
+<img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/java.png" alt="java"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/><img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/><img width="50" height ="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
