@@ -1,5 +1,5 @@
 # Hi there 👋 Its Barath
-## Welcome to My Github Profile!
+## 🚀Welcome to My Github Profile!
 
 - I'm a B.Tech Information Technology Student.
 - I'm a Backend Developer Enthusiastic.
@@ -13,7 +13,8 @@ community and regular users. The system supports multiple sign languages, includ
 real-time translation between text, voice, and sign gestures. 
 
 ## 🎯 Mission
-To learn, build, and share knowledge by contributing to open-source projects and helping students grow through accessible technical resources and collaboration.
+To strengthen my software development skills by building practical projects, learning continuously, and contributing to open-source while preparing for a successful career in technology.
+
 
 ## 📌Certification
 - Oracle Certified Foundations Associate
@@ -24,10 +25,10 @@ To learn, build, and share knowledge by contributing to open-source projects and
 - Completion of Cpp Training
 - Java 11
   
-## Language Known
+##  💻Language Known
 <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/java.png" alt="java"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/><img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/><img width="50" height ="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 
-## Contact me
+## 📫Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barath-r-a57730358)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barathr0312@gmail.com)
 
